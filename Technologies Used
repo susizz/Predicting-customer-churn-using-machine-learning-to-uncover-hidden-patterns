@@ -1,0 +1,11 @@
+| Category                 | Tools / Libraries           | Purpose                                                    |
+| ------------------------ | --------------------------- | ---------------------------------------------------------- |
+| **Programming Language** | Python 3.8+                 | Core language for scripting, modeling, and app development |
+| **Data Manipulation**    | pandas, numpy               | Data loading, cleaning, and transformation                 |
+| **Data Visualization**   | seaborn, matplotlib         | Exploratory data analysis (EDA) and visual insights        |
+| **Machine Learning**     | scikit-learn                | Baseline models, preprocessing, and evaluation             |
+| **Deep Learning**        | **TensorFlow** (Keras API)  | Building and training the neural network                   |
+| **Web App Framework**    | Streamlit                   | Frontend user interface and deployment                     |
+| **Model Serialization**  | joblib, h5py                | Saving and loading trained models                          |
+| **Version Control**      | Git, GitHub                 | Code management and collaboration                          |
+| **Deployment**           | Streamlit Cloud / Localhost | Web-based prediction interface                             |
